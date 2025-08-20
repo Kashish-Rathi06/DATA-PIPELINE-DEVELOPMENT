@@ -56,5 +56,9 @@ The script ensures:
 
 ---
 
+#OUTPUT
 
-Let me know if you want an even shorter version or need it formatted as a comment block for the script!
+<img width="1913" height="1073" alt="Image" src="https://github.com/user-attachments/assets/7c8c0797-aa72-4910-8131-da12a470820f" />
+
+
+
